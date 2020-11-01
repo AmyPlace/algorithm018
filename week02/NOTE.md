@@ -155,10 +155,10 @@
 
 ## 作業
 
-| Simple | 写一个关于 HashMap 的小总结。说明：对于不熟悉 Java 语言的同学，此项作业可选做。 | [⭕](./HW/HashMap 小總結.md)                     |
+| Simple | 写一个关于 HashMap 的小总结。说明：对于不熟悉 Java 语言的同学，此项作业可选做。 | [⭕](./HW/HashMap_小總結.md)                     |
 | ------ | ------------------------------------------------------------ | ----------------------------------------------- |
 |        | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)（亚马逊、Facebook、谷歌在半年内面试中考过） | [⭕](./HW/LeetCode/[242]有效的字母异位词.java)   |
-|        | [N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)（亚马逊在半年内面试中考过） | [⭕](./HW/LeetCode/[95]不同的二叉搜索树 II.java) |
+|        | [N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/)（亚马逊在半年内面试中考过） | [⭕](./HW/LeetCode/[95]不同的二叉搜索树_II.java) |
 |        | [两数之和](https://leetcode-cn.com/problems/two-sum/)（亚马逊、字节跳动、谷歌、Facebook、苹果、微软在半年内面试中高频常考） | [⭕](./HW/LeetCode/[1]两数之和.java)             |
 | Medium | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)（亚马逊在半年内面试中常考） | [⭕](./HW/LeetCode/[49]字母异位词分组.java)      |
 |        | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)（亚马逊、字节跳动、微软在半年内面试中考过） | [⭕](./HW/LeetCode/[94]二叉树的中序遍历.java)    |
